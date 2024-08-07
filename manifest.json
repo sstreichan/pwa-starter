@@ -1,7 +1,7 @@
 {
     "name": "test app",
     "short_name": "TestApp",
-    "start_url": "/",
+    "start_url": "/pwa-starter/",
     "display": "standalone",
     "description": "A description for your application",
     "lang": "en",
